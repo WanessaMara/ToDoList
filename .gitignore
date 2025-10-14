@@ -1,0 +1,25 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Logs e temporários
+*.log
+*.vsidx
+*.dbmdl
+*.tmp
+
+# Configurações locais
+appsettings.Development.json
+
+# Backup ou cache
+*.bak
+*.cache
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
