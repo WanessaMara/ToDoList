@@ -1,7 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using ToDoList.Data;
 
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Adiciona serviços
